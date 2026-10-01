@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.sites-runtime/
+.venv/
+__pycache__/
+*.pyc
+*.tsbuildinfo
+public/engine/
+public/pyodide/
+.env

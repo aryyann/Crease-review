@@ -1,0 +1,7 @@
+.git
+.sites-runtime
+node_modules
+dist
+__pycache__
+*.pyc
+.venv
